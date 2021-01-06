@@ -10,6 +10,7 @@ setuptools.setup(
     author_email="evtlucas@gmail.com",
     description="A simple dataset formatter based on business days and weekends.",
     long_description=long_description,
+    long_description_content_type="text/markdown",
     url="https://github.com/evtlucas/business_dataset_formatter",
     packages=['bdf'],
     classifiers=[
